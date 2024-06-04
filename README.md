@@ -1,5 +1,4 @@
 ### Boas vindas ao meu perfil 💙
-- Estou iniciando meus estudos através da [Alura](www.alura.com.br) 
 - Meu nome é Júlia Beatriz.
 - Eu estou me desenvilendo na lingugem javascript.
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
